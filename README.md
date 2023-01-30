@@ -1,4 +1,8 @@
-# Exercicios-CSharp
+# Exercicios CSharp - Programação Orientada a Objetos 
+
+Este seguinte projeto é uma atividade de programação de algoritmos, sobre Programação Orientada a Objetos 
+
+### Proposta da atividade
 
 Exercício 1: Visando complementar o estudo sobre Programação Orientada a Objetos, faça uma pesquisa sobre o conceito de Delegação/Composição em POO, e crie um exemplo prático para a utilização deste recurso. Coloque comentários nas linhas de código. 
 
