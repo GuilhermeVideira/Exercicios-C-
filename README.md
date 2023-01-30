@@ -1,6 +1,6 @@
 # Exercicios CSharp - Programação Orientada a Objetos 
 
- --> Este seguinte projeto é uma atividade de programação de algoritmos, sobre Programação Orientada a Objetos 
+ --> Este seguinte projeto é uma atividade de programação de algoritmos, sobre Programação Orientada a Objetos.
 
 ### Proposta da atividade:
 
